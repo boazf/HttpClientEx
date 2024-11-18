@@ -1,0 +1,24 @@
+{
+    "name": "HttpClientEx",
+    "version": "1.0.0",
+    "description": "Library to easily make HTTP GET, POST and PUT requests to a web server by specifying a URL.",
+    "keywords": "http, w5100, w5500, WiFi, Arduino, client, esp32",
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/boazf/HttpClientEx.git"
+    },
+    "authors":
+    [
+      {
+        "name": "Boaz Feldboim",
+        "email": "boaz@feldbaum.name    ",
+      }
+    ],
+    "license": "Apache",
+    "dependencies": {
+      "amcewen/HttpClient": "~2.2.0"
+    },
+    "frameworks": "arduino",
+    "platforms": "espressif32"
+  }
