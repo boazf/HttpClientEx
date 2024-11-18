@@ -1,6 +1,6 @@
 {
     "name": "HttpClientEx",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "description": "Library to easily make HTTP GET, POST and PUT requests to a web server by specifying a URL.",
     "keywords": "http, w5100, w5500, WiFi, Arduino, client, esp32",
     "repository":
