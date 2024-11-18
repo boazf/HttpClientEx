@@ -1,6 +1,6 @@
 {
     "name": "HttpClientEx",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Library to easily make HTTP GET, POST and PUT requests to a web server by specifying a URL.",
     "keywords": "http, w5100, w5500, WiFi, Arduino, client, esp32",
     "repository":
@@ -12,10 +12,10 @@
     [
       {
         "name": "Boaz Feldboim",
-        "email": "boaz@feldbaum.name    ",
+        "email": "boaz@feldbaum.name"
       }
     ],
-    "license": "Apache",
+    "license": "Apache-2.0",
     "dependencies": {
       "amcewen/HttpClient": "~2.2.0"
     },
