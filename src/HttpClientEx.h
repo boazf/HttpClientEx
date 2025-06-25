@@ -1,3 +1,11 @@
+/*
+ * Class to extend amcewen/HttpClient library
+ * @file HttpClientEx.h
+ * @date 16.11.2024
+ * @author Boaz Feldboim
+ * Released under Apache License, version 2.0
+ */
+
 #ifndef HTTP_CLIENT_EX_H
 #define HTTP_CLIENT_EX_H
 #include <Arduino.h>
