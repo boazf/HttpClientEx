@@ -1,3 +1,11 @@
+/*
+ * Class to extend amcewen/HttpClient library
+ * @file HttpClientEx.cpp
+ * @date 16.11.2024
+ * @author Boaz Feldboim
+ * Released under Apache License, version 2.0
+ */
+
 #include <HttpClientEx.h>
 #include <base64.h>
 
